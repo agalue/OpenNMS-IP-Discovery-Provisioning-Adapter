@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/agalue/OpenNMS-IP-Discovery-Provisioning-Adapter.svg?style=svg)](https://circleci.com/gh/agalue/OpenNMS-IP-Discovery-Provisioning-Adapter)
+
 # OpenNMS-IP-Discovery-Provisioning-Adapter
 Optional Provisioning Adapter to manage auto-discovery of IP interfaces as unmanaged
 
