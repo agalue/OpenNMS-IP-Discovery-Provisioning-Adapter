@@ -1,0 +1,1 @@
+<snmp-config xmlns="http://xmlns.opennms.org/xsd/config/snmp" port="9161" version="v2c" read-community="public" timeout="1800" retry="1"/>
